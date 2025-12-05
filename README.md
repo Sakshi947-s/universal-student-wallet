@@ -1,4 +1,4 @@
-# Universal Student Wallet
+# Universal Student Wallet 
 
 ## Description  
 Universal Student Wallet is a web application / tool designed to help students manage their finances — track expenses, budgets, and payments — in a simple and unified interface. It aims to make financial planning easier for students, helping them monitor spending, set budgets, and avoid overspending.
